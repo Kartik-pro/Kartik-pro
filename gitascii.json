@@ -1,4 +1,5 @@
 {
+  "username": "Kartik-pro",
   "widgets": [
     {
       "widgetId": "header",
@@ -1185,7 +1186,8 @@
           ]
         ],
         "cols": 45,
-        "rows": 23
+        "rows": 23,
+        "accentColor": "#c5ff4a"
       },
       "locked": false,
       "visible": true,
@@ -1221,25 +1223,6 @@
         "height": 30
       },
       "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
-    },
-    {
-      "instanceId": "widget_1790132586663",
-      "widgetId": "godprofile-marquee",
-      "name": "Godprofile-marquee Widget",
-      "position": {
-        "x": 24,
-        "y": 450
-      },
-      "size": {
-        "width": 512,
-        "height": 48
-      },
-      "config": {
-        "accentColor": "#b6a891"
-      },
       "locked": false,
       "visible": true,
       "zIndex": 7
@@ -1301,21 +1284,89 @@
       "zIndex": 10
     },
     {
-      "instanceId": "widget_1790132965516",
-      "widgetId": "codeweb-showcase-cards",
-      "name": "Codeweb-showcase-cards Widget",
+      "instanceId": "widget_1790134815569",
+      "widgetId": "languages",
+      "name": "Languages Widget",
       "position": {
         "x": 0,
-        "y": 1444
+        "y": 392
       },
       "size": {
-        "width": 800,
-        "height": 220
+        "width": 536,
+        "height": 160
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 12
+    },
+    {
+      "instanceId": "widget_1790134905126",
+      "widgetId": "github-readme-stats",
+      "name": "Github-readme-stats Widget",
+      "position": {
+        "x": 0,
+        "y": 1412
+      },
+      "size": {
+        "width": 390,
+        "height": 210
       },
       "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 11
+    },
+    {
+      "instanceId": "widget_1790134921255",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 1622
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 12
+    },
+    {
+      "instanceId": "widget_1790134957182",
+      "widgetId": "codeweb-minimal-badge",
+      "name": "Codeweb-minimal-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 1872
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 13
+    },
+    {
+      "instanceId": "widget_1790135172505",
+      "widgetId": "bio",
+      "name": "Bio Widget",
+      "position": {
+        "x": 398,
+        "y": 1412
+      },
+      "size": {
+        "width": 392,
+        "height": 202
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 15
     }
   ],
   "globalStyles": {
@@ -1329,5 +1380,10 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1790135656262_vk0jh",
+    "updatedAt": "2026-09-23T03:54:18.739Z"
+  }
 }

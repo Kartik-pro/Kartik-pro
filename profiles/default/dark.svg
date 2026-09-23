@@ -1,0 +1,826 @@
+
+<svg width="800" height="1932" viewBox="0 0 800 1932" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
+
+    * {
+      box-sizing: border-box;
+    }
+
+    text {
+      user-select: none;
+    }
+
+    .gitascii-canvas-bg {
+      fill: #0d1117;
+      transition: fill 0.3s ease;
+    }
+
+    @media (prefers-color-scheme: light) {
+      .gitascii-canvas-bg {
+        fill: #ffffff !important;
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .gitascii-canvas-bg {
+        fill: #0d1117 !important;
+      }
+    }
+  </style>
+
+  <rect class="" width="800" height="1932" fill="#060606" rx="0" />
+
+  
+    <g transform="translate(0, 0)" id="widget-widget_1790131817879_0">
+
+      
+      
+      <rect class="" x="0" y="0" width="800" height="90" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      
+    <text x="24" y="44" font-family="JetBrains Mono" font-size="28" font-weight="300" fill="#e5e5e5">Kartik Sharma</text>
+    <text x="24" y="72" font-family="'JetBrains Mono', monospace" font-size="14" fill="#c5ff4a">@Kartik-pro</text>
+    
+  
+  
+    </g>
+  
+
+    <g transform="translate(296, 106)" id="widget-widget_1790131817879_2">
+
+      
+      
+      <rect class="" x="0" y="0" width="504" height="280" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      <text x="12" y="20" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Kartik-pro@github </tspan><tspan fill="#3d444d">─────────────────────────────────────</tspan></text>
+<text x="12" y="38" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Uptime: </tspan><tspan fill="#484f58">....................</tspan><tspan fill="#c9d1d9"> 3 years, 3 months, 13 days</tspan></text>
+<text x="12" y="56" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Location: </tspan><tspan fill="#484f58">........................</tspan><tspan fill="#c9d1d9"> Nirala Nagar,Lucknow</tspan></text>
+<text x="12" y="82" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Contact </tspan><tspan fill="#3d444d">───────────────────────────────────────────────</tspan></text>
+<text x="12" y="100" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. GitHub: </tspan><tspan fill="#484f58">.........................</tspan><tspan fill="#c9d1d9"> github.com/Kartik-pro</tspan></text>
+<text x="12" y="126" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> GitHub Stats </tspan><tspan fill="#3d444d">──────────────────────────────────────────</tspan></text>
+<text x="12" y="144" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">................</tspan><tspan fill="#79c0ff"> 4</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">................</tspan><tspan fill="#79c0ff"> 0</tspan></text>
+<text x="12" y="162" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">.............</tspan><tspan fill="#79c0ff"> 14</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">............</tspan><tspan fill="#79c0ff"> 3</tspan></text>
+  
+    </g>
+  
+
+    <g transform="translate(544, 386)" id="widget-widget_1790131817879_5">
+
+      
+      
+      <rect class="" x="0" y="0" width="256" height="176" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      
+    <text x="24" y="32" font-family="JetBrains Mono" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ TECHNOLOGIES &amp; SKILLS ]</text>
+    <image href="data:image/svg+xml;base64,CiAgPHN2ZyB3aWR0aD0iMjE2Ljc1IiBoZWlnaHQ9IjEwNC4yNSIgdmlld0JveD0iMCAwIDExNTYgNTU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiPgogICAgCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCwgMCkiPgogICAgICAgICAgPHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiByeD0iNjAiIGZpbGw9IiNGMERCNEYiLz4KPHBhdGggZD0iTTY3LjMxMTcgMjEzLjkzMkw4Ni45MDI3IDIwMi4wNzZDOTAuNjgyMSAyMDguNzc3IDk0LjEyMDIgMjE0LjQ0NyAxMDIuMzY3IDIxNC40NDdDMTEwLjI3MiAyMTQuNDQ3IDExNS4yNTYgMjExLjM1NSAxMTUuMjU2IDE5OS4zMjdWMTE3LjUyOUgxMzkuMzE0VjE5OS42NjdDMTM5LjMxNCAyMjQuNTg0IDEyNC43MDggMjM1LjkyNiAxMDMuMzk4IDIzNS45MjZDODQuMTUzMyAyMzUuOTI2IDcyLjk4MTkgMjI1Ljk1OSA2Ny4zMTEzIDIxMy45MyIgZmlsbD0iIzMyMzMzMCIvPgo8cGF0aCBkPSJNMTUyLjM4MSAyMTEuMzU0TDE3MS45NjkgMjAwLjAxM0MxNzcuMTI2IDIwOC40MzQgMTgzLjgyOCAyMTQuNjIgMTk1LjY4NCAyMTQuNjJDMjA1LjY1MyAyMTQuNjIgMjEyLjAwOSAyMDkuNjM2IDIxMi4wMDkgMjAyLjc2MkMyMTIuMDA5IDE5NC41MTQgMjA1LjQ3OSAxOTEuNTkyIDE5NC40ODEgMTg2Ljc4MkwxODguNDY4IDE4NC4yMDNDMTcxLjExMSAxNzYuODE1IDE1OS41OTcgMTY3LjUzNSAxNTkuNTk3IDE0Ny45NDVDMTU5LjU5NyAxMjkuOTAxIDE3My4zNDUgMTE2LjE1MyAxOTQuODI2IDExNi4xNTNDMjEwLjEyIDExNi4xNTMgMjIxLjExOCAxMjEuNDgxIDIyOS4wMjIgMTM1LjRMMjEwLjI5MSAxNDcuNDI5QzIwNi4xNjYgMTQwLjA0IDIwMS43IDEzNy4xMTkgMTk0LjgyNiAxMzcuMTE5QzE4Ny43OCAxMzcuMTE5IDE4My4zMTIgMTQxLjU4NyAxODMuMzEyIDE0Ny40MjlDMTgzLjMxMiAxNTQuNjQ2IDE4Ny43OCAxNTcuNTY4IDE5OC4wOSAxNjIuMDM3TDIwNC4xMDQgMTY0LjYxNEMyMjQuNTUzIDE3My4zNzkgMjM2LjA2NyAxODIuMzEzIDIzNi4wNjcgMjAyLjQxOEMyMzYuMDY3IDIyNC4wNzIgMjE5LjA1NSAyMzUuOTI4IDE5Ni4yIDIzNS45MjhDMTczLjg2MSAyMzUuOTI4IDE1OS40MjYgMjI1LjI3NCAxNTIuMzgxIDIxMS4zNTQiIGZpbGw9IiMzMjMzMzAiLz4KPC9zdmc+CgogICAgICAgIDwvZz4KICAgICAgICAgCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMzAwLCAwKSI+CiAgICAgICAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cmVjdCB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgZmlsbD0iI0UxNEUxRCIgcng9IjYwIi8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQ4IDM4TDU2LjYwOTggMTM0LjU5M0gxNjcuMzJMMTYzLjYwNSAxNzYuMDIzTDEyNy45NTkgMTg1LjY2MUw5Mi4zOCAxNzYuMDM3TDkwLjAwMTIgMTQ5LjQzNUg1Ny45Mzg5TDYyLjUyMzYgMjAwLjcxNkwxMjcuOTUxIDIxOC44ODhMMTkzLjQ2MSAyMDAuNzE2TDIwMi4yNDQgMTAyLjY1NUg4NS44MjQxTDgyLjkwMSA2OS45NDQ4SDIwNS4wNDFIMjA1LjEzOUwyMDggMzhINDhaIi8+PHBhdGggZmlsbD0iI0VCRUJFQiIgZD0iTTEyOCAzOEg0OEw1Ni42MDk4IDEzNC41OTNIMTI4VjEwMi42NTVIODUuODI0MUw4Mi45MDEgNjkuOTQ0OEgxMjhWMzhaIi8+PHBhdGggZmlsbD0iI0VCRUJFQiIgZD0iTTEyOCAxODUuNjQ3TDEyNy45NTkgMTg1LjY2MUw5Mi4zOCAxNzYuMDM3TDkwLjAwMTIgMTQ5LjQzNUg1Ny45Mzg4TDYyLjUyMzYgMjAwLjcxNkwxMjcuOTUxIDIxOC44ODhMMTI4IDIxOC44NzRWMTg1LjY0N1oiLz48L3N2Zz4KICAgICAgICA8L2c+CiAgICAgICAgIAogICAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYwMCwgMCkiPgogICAgICAgICAgPHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiByeD0iNjAiIGZpbGw9IiMwMjc3QkQiLz4KPHBhdGggZD0iTTUzLjc1MjcgMTAyLjY1MUw1Ni42MTU1IDEzNC41OTNIMTI4LjA5NlYxMDIuNjUxSDUzLjc1MjdaIiBmaWxsPSIjRUJFQkVCIi8+CjxwYXRoIGQ9Ik0xMjguMDk1IDM4SDEyNy45ODVINDhMNTAuOTAzNiA2OS45NDIzSDEyOC4wOTVWMzhaIiBmaWxsPSIjRUJFQkVCIi8+CjxwYXRoIGQ9Ik0xMjguMDk1IDIxOC44NDFWMTg1LjYwOEwxMjcuOTU1IDE4NS42NDVMOTIuMzgxMyAxNzYuMDRMOTAuMTA3MiAxNTAuNTY0SDcyLjgyMUg1OC4wNDI1TDYyLjUxNzUgMjAwLjcxOEwxMjcuOTQ4IDIxOC44ODJMMTI4LjA5NSAyMTguODQxWiIgZmlsbD0iI0VCRUJFQiIvPgo8cGF0aCBkPSJNMTY3LjMxOCAxMzQuNTkzTDE2My42MSAxNzYuMDE5TDEyNy45ODUgMTg1LjYzNVYyMTguODY2TDE5My40NjggMjAwLjcxOEwxOTMuOTQ4IDE5NS4zMjFMMjAxLjQ1NCAxMTEuMjI5TDIwMi4yMzMgMTAyLjY1MUwyMDggMzhIMTI3Ljk4NVY2OS45NDIzSDE3Mi45OTRMMTcwLjA4OCAxMDIuNjUxSDEyNy45ODVWMTM0LjU5M0gxNjcuMzE4WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+CgogICAgICAgIDwvZz4KICAgICAgICAgCiAgICAgICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoOTAwLCAwKSI+CiAgICAgICAgICA8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cmVjdCB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgZmlsbD0iIzI0MjkzOCIgcng9IjYwIi8+PHBhdGggZmlsbD0idXJsKCNwYWludDBfbGluZWFyXzJfNDcpIiBkPSJNMTI3LjI3OSAyOUM3Ni41MDY2IDI5IDc5LjY3NzIgNTEuMDE4IDc5LjY3NzIgNTEuMDE4TDc5LjczMzggNzMuODI4NEgxMjguMTg1VjgwLjY3NzJINjAuNDg5M0M2MC40ODkzIDgwLjY3NzIgMjggNzYuOTkyNiAyOCAxMjguMjIyQzI4IDE3OS40NTIgNTYuMzU3MyAxNzcuNjM2IDU2LjM1NzMgMTc3LjYzNkg3My4yODEyVjE1My44NjNDNzMuMjgxMiAxNTMuODYzIDcyLjM2OSAxMjUuNTA2IDEwMS4xODYgMTI1LjUwNkgxNDkuMjRDMTQ5LjI0IDEyNS41MDYgMTc2LjIzOSAxMjUuOTQyIDE3Ni4yMzkgOTkuNDEyM1Y1NS41NDYxQzE3Ni4yMzkgNTUuNTQ2MSAxODAuMzM4IDI5IDEyNy4yNzkgMjlaTTEwMC41NjMgNDQuMzM5QzEwNS4zODQgNDQuMzM5IDEwOS4yOCA0OC4yMzUxIDEwOS4yOCA1My4wNTU2QzEwOS4yOCA1Ny44NzYxIDEwNS4zODQgNjEuNzcyMyAxMDAuNTYzIDYxLjc3MjNDOTUuNzQyNiA2MS43NzIzIDkxLjg0NjUgNTcuODc2MSA5MS44NDY1IDUzLjA1NTZDOTEuODQ2NSA0OC4yMzUxIDk1Ljc0MjYgNDQuMzM5IDEwMC41NjMgNDQuMzM5WiIvPjxwYXRoIGZpbGw9InVybCgjcGFpbnQxX2xpbmVhcl8yXzQ3KSIgZD0iTTEyOC43MjEgMjI3Ljk1OEMxNzkuNDkzIDIyNy45NTggMTc2LjMyMyAyMDUuOTQxIDE3Ni4zMjMgMjA1Ljk0MUwxNzYuMjY2IDE4My4xM0gxMjcuODE1VjE3Ni4yODFIMTk1LjUxMUMxOTUuNTExIDE3Ni4yODEgMjI4IDE3OS45NjYgMjI4IDEyOC43MzZDMjI4IDc3LjUwNjIgMTk5LjY0MyA3OS4zMjMgMTk5LjY0MyA3OS4zMjNIMTgyLjcxOVYxMDMuMDk2QzE4Mi43MTkgMTAzLjA5NiAxODMuNjMxIDEzMS40NTMgMTU0LjgxNCAxMzEuNDUzSDEwNi43NkMxMDYuNzYgMTMxLjQ1MyA3OS43NjA3IDEzMS4wMTYgNzkuNzYwNyAxNTcuNTQ2VjIwMS40MTJDNzkuNzYwNyAyMDEuNDEyIDc1LjY2MTUgMjI3Ljk1OCAxMjguNzIxIDIyNy45NThaTTE1NS40MzcgMjEyLjYxOUMxNTAuNjE2IDIxMi42MTkgMTQ2LjcyIDIwOC43MjMgMTQ2LjcyIDIwMy45MDNDMTQ2LjcyIDE5OS4wODIgMTUwLjYxNiAxOTUuMTg2IDE1NS40MzcgMTk1LjE4NkMxNjAuMjU3IDE5NS4xODYgMTY0LjE1NCAxOTkuMDgyIDE2NC4xNTQgMjAzLjkwM0MxNjQuMTU0IDIwOC43MjMgMTYwLjI1NyAyMTIuNjE5IDE1NS40MzcgMjEyLjYxOVoiLz48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9InBhaW50MF9saW5lYXJfMl80NyIgeDE9IjQ3LjIyIiB4Mj0iMTQ2LjMzMyIgeTE9IjQ2Ljg5NiIgeTI9IjE0NS4wMiIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIHN0b3AtY29sb3I9IiMzODdFQjgiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMzNjY5OTQiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQxX2xpbmVhcl8yXzQ3IiB4MT0iMTA4LjA1NiIgeDI9IjIxNC40OTIiIHkxPSIxMDkuOTA1IiB5Mj0iMjEwLjUyMiIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIHN0b3AtY29sb3I9IiNGRkUwNTIiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNGRkMzMzEiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48L3N2Zz4KICAgICAgICA8L2c+CiAgICAgICAgIAogICAgICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsIDMwMCkiPgogICAgICAgICAgPHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiByeD0iNjAiIGZpbGw9IiMyNDI5MzgiLz4KPHBhdGggZD0iTTEyOC4wMDEgMzBDNzIuNzc5MSAzMCAyOCA3NC43NzA4IDI4IDEzMC4wMDFDMjggMTc0LjE4NCA1Ni42NTMzIDIxMS42NjggOTYuMzg2NyAyMjQuODkxQzEwMS4zODQgMjI1LjgxNyAxMDMuMjE5IDIyMi43MjIgMTAzLjIxOSAyMjAuMDgxQzEwMy4yMTkgMjE3LjY5NiAxMDMuMTI2IDIwOS44MTkgMTAzLjA4MyAyMDEuNDYzQzc1LjI2MzEgMjA3LjUxMiA2OS4zOTI3IDE4OS42NjQgNjkuMzkyNyAxODkuNjY0QzY0Ljg0MzcgMTc4LjEwNSA1OC4yODk0IDE3NS4wMzIgNTguMjg5NCAxNzUuMDMyQzQ5LjIxNjMgMTY4LjgyNSA1OC45NzMzIDE2OC45NTMgNTguOTczMyAxNjguOTUzQzY5LjAxNTEgMTY5LjY1OCA3NC4zMDI2IDE3OS4yNTggNzQuMzAyNiAxNzkuMjU4QzgzLjIyMTcgMTk0LjU0NiA5Ny42OTY1IDE5MC4xMjYgMTAzLjQwMyAxODcuNTcxQzEwNC4zMDEgMTgxLjEwNyAxMDYuODkyIDE3Ni42OTYgMTA5Ljc1MiAxNzQuMTk5Qzg3LjU0MDUgMTcxLjY3IDY0LjE5MTMgMTYzLjA5NSA2NC4xOTEzIDEyNC43NzhDNjQuMTkxMyAxMTMuODYgNjguMDk3NyAxMDQuOTM5IDc0LjQ5NDcgOTcuOTM2MkM3My40NTY0IDk1LjQxNzUgNzAuMDMzNSA4NS4yNDY1IDc1LjQ2MzUgNzEuNDcyMkM3NS40NjM1IDcxLjQ3MjIgODMuODYwOSA2OC43ODQ1IDEwMi45NzEgODEuNzIyNkMxMTAuOTQ4IDc5LjUwNjkgMTE5LjUwMiA3OC4zOTU4IDEyOC4wMDEgNzguMzU3N0MxMzYuNDk5IDc4LjM5NTggMTQ1LjA2MSA3OS41MDY5IDE1My4wNTIgODEuNzIyNkMxNzIuMTM5IDY4Ljc4NDUgMTgwLjUyNSA3MS40NzIyIDE4MC41MjUgNzEuNDcyMkMxODUuOTY4IDg1LjI0NjUgMTgyLjU0NCA5NS40MTc1IDE4MS41MDUgOTcuOTM2MkMxODcuOTE3IDEwNC45MzkgMTkxLjc5NyAxMTMuODYgMTkxLjc5NyAxMjQuNzc4QzE5MS43OTcgMTYzLjE4NyAxNjguNDAzIDE3MS42NDQgMTQ2LjEzNSAxNzQuMTE5QzE0OS43MjIgMTc3LjIyMyAxNTIuOTE4IDE4My4zMDggMTUyLjkxOCAxOTIuNjM4QzE1Mi45MTggMjA2LjAxOCAxNTIuODAyIDIxNi43ODcgMTUyLjgwMiAyMjAuMDgxQzE1Mi44MDIgMjIyLjc0MiAxNTQuNjAyIDIyNS44NiAxNTkuNjcxIDIyNC44NzhDMTk5LjM4MyAyMTEuNjQgMjI4IDE3NC4xNjkgMjI4IDEzMC4wMDFDMjI4IDc0Ljc3MDggMTgzLjIyNyAzMCAxMjguMDAxIDMwWk02NS40NTM2IDE3Mi40NTNDNjUuMjMzMyAxNzIuOTUgNjQuNDUxNyAxNzMuMDk5IDYzLjczOTYgMTcyLjc1OEM2My4wMTQzIDE3Mi40MzIgNjIuNjA2OSAxNzEuNzU0IDYyLjg0MjEgMTcxLjI1NkM2My4wNTc0IDE3MC43NDQgNjMuODQwNiAxNzAuNjAyIDY0LjU2NDMgMTcwLjk0NUM2NS4yOTEzIDE3MS4yNzEgNjUuNzA1MyAxNzEuOTU1IDY1LjQ1MzYgMTcyLjQ1M1pNNzAuMzcyNSAxNzYuODQyQzY5Ljg5NTYgMTc3LjI4NSA2OC45NjMzIDE3Ny4wNzkgNjguMzMwNyAxNzYuMzhDNjcuNjc2NiAxNzUuNjgzIDY3LjU1NCAxNzQuNzUxIDY4LjAzNzYgMTc0LjMwMkM2OC41Mjk0IDE3My44NiA2OS40MzM2IDE3NC4wNjcgNzAuMDg5MyAxNzQuNzY0QzcwLjc0MzQgMTc1LjQ3IDcwLjg3MDkgMTc2LjM5NSA3MC4zNzI1IDE3Ni44NDJaTTczLjc0NzEgMTgyLjQ1OEM3My4xMzQ0IDE4Mi44ODQgNzIuMTMyNSAxODIuNDg1IDcxLjUxMzIgMTgxLjU5NUM3MC45MDA0IDE4MC43MDYgNzAuOTAwNCAxNzkuNjQgNzEuNTI2NCAxNzkuMjEyQzcyLjE0NzQgMTc4Ljc4NSA3My4xMzQ0IDE3OS4xNjkgNzMuNzYyIDE4MC4wNTJDNzQuMzczIDE4MC45NTYgNzQuMzczIDE4Mi4wMjMgNzMuNzQ3MSAxODIuNDU4Wk03OS40NTQyIDE4OC45NjJDNzguOTA2MSAxODkuNTY2IDc3LjczODYgMTg5LjQwNCA3Ni44ODQxIDE4OC41NzlDNzYuMDA5OCAxODcuNzczIDc1Ljc2NjMgMTg2LjYyOSA3Ni4zMTYxIDE4Ni4wMjRDNzYuODcwOSAxODUuNDE4IDc4LjA0NSAxODUuNTg5IDc4LjkwNjEgMTg2LjQwN0M3OS43NzM4IDE4Ny4yMTEgODAuMDM4NyAxODguMzY0IDc5LjQ1NDIgMTg4Ljk2MlpNODYuODMwMSAxOTEuMTU3Qzg2LjU4ODMgMTkxLjk0MSA4NS40NjM5IDE5Mi4yOTcgODQuMzMxMiAxOTEuOTY0QzgzLjIwMDIgMTkxLjYyMSA4Mi40NiAxOTAuNzA0IDgyLjY4ODUgMTg5LjkxMkM4Mi45MjM3IDE4OS4xMjQgODQuMDUzIDE4OC43NTMgODUuMTk0IDE4OS4xMDlDODYuMzIzNCAxODkuNDUgODcuMDY1MiAxOTAuMzYxIDg2LjgzMDEgMTkxLjE1N1pNOTUuMjI0MiAxOTIuMDg5Qzk1LjI1MjMgMTkyLjkxMyA5NC4yOTE5IDE5My41OTcgOTMuMTAyOSAxOTMuNjEyQzkxLjkwNzMgMTkzLjYzOSA5MC45NDAyIDE5Mi45NzEgOTAuOTI2OSAxOTIuMTZDOTAuOTI2OSAxOTEuMzI3IDkxLjg2NTkgMTkwLjY1IDkzLjA2MTUgMTkwLjYzQzk0LjI1MDUgMTkwLjYwNyA5NS4yMjQyIDE5MS4yNjkgOTUuMjI0MiAxOTIuMDg5Wk0xMDMuNDcgMTkxLjc3M0MxMDMuNjEzIDE5Mi41NzcgMTAyLjc4NyAxOTMuNDA0IDEwMS42MDYgMTkzLjYyNEMxMDAuNDQ1IDE5My44MzYgOTkuMzcwMiAxOTMuMzM5IDk5LjIyMjkgMTkyLjU0MUM5OS4wNzg4IDE5MS43MTYgOTkuOTIgMTkwLjg5IDEwMS4wNzkgMTkwLjY3NkMxMDIuMjYyIDE5MC40NzEgMTAzLjMyIDE5MC45NTUgMTAzLjQ3IDE5MS43NzNaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4KCiAgICAgICAgPC9nPgogICAgICAgICAKICAgICAgICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzMDAsIDMwMCkiPgogICAgICAgICAgPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiI+PHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIGZpbGw9IiNGMDNDMkUiIHJ4PSI2MCIvPjxnIGNsaXAtcGF0aD0idXJsKCNjbGlwMF83XzI4MykiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yMjQuMjI1IDExOS4wOTRMMTM2LjkwNiAzMS43NzVDMTM1LjcxMSAzMC41Nzg3IDEzNC4yOTEgMjkuNjI5OCAxMzIuNzI5IDI4Ljk4MjRDMTMxLjE2NiAyOC4zMzQ5IDEyOS40OTEgMjguMDAxNyAxMjcuOCAyOC4wMDE3QzEyNi4xMDkgMjguMDAxNyAxMjQuNDM0IDI4LjMzNDkgMTIyLjg3MSAyOC45ODI0QzEyMS4zMDkgMjkuNjI5OCAxMTkuODg5IDMwLjU3ODcgMTE4LjY5NCAzMS43NzVMMTAwLjU2OSA0OS45TDEyMy41NjkgNzIuOUMxMjguOTE5IDcxLjAyNSAxMzUuMDQ0IDcyLjMwNjIgMTM5LjMwNiA3Ni41Njg3QzE0MS4zMzUgNzguNjAxNCAxNDIuNzUyIDgxLjE2MzggMTQzLjM5NCA4My45NjMyQzE0NC4wMzYgODYuNzYyNiAxNDMuODc4IDg5LjY4NjIgMTQyLjkzNyA5Mi40TDE2NS4xMDYgMTE0LjU2OUMxNzAuNDY5IDExMi43MTkgMTc2LjY1NiAxMTMuOTEyIDE4MC45MzcgMTE4LjIwNkMxODIuMzYxIDExOS42MyAxODMuNDkgMTIxLjMyIDE4NC4yNiAxMjMuMThDMTg1LjAzIDEyNS4wNCAxODUuNDI2IDEyNy4wMzMgMTg1LjQyNiAxMjkuMDQ2QzE4NS40MjUgMTMxLjA1OSAxODUuMDI5IDEzMy4wNTIgMTg0LjI1OCAxMzQuOTEyQzE4My40ODcgMTM2Ljc3MSAxODIuMzU4IDEzOC40NjEgMTgwLjkzNCAxMzkuODg0QzE3OS41MTEgMTQxLjMwOCAxNzcuODIxIDE0Mi40MzYgMTc1Ljk2MSAxNDMuMjA2QzE3NC4xMDEgMTQzLjk3NyAxNzIuMTA4IDE0NC4zNzMgMTcwLjA5NSAxNDQuMzcyQzE2OC4wODIgMTQ0LjM3MiAxNjYuMDg4IDE0My45NzUgMTY0LjIyOSAxNDMuMjA1QzE2Mi4zNjkgMTQyLjQzNCAxNjAuNjc5IDE0MS4zMDUgMTU5LjI1NiAxMzkuODgxQzE1NC43NTYgMTM1LjM4MSAxNTMuNjQ0IDEyOC43NTYgMTU1LjkxOSAxMjMuMjEyTDEzNS4yNDQgMTAyLjUzN1YxNTYuOTQ0QzEzNi43NDUgMTU3LjY4NiAxMzguMTE2IDE1OC42NjYgMTM5LjMwNiAxNTkuODQ0QzE0MC43MjkgMTYxLjI2NyAxNDEuODU4IDE2Mi45NTYgMTQyLjYyOSAxNjQuODE2QzE0My4zOTkgMTY2LjY3NSAxNDMuNzk1IDE2OC42NjggMTQzLjc5NSAxNzAuNjgxQzE0My43OTUgMTcyLjY5NCAxNDMuMzk5IDE3NC42ODcgMTQyLjYyOSAxNzYuNTQ2QzE0MS44NTggMTc4LjQwNiAxNDAuNzI5IDE4MC4wOTYgMTM5LjMwNiAxODEuNTE5QzEzNy44ODMgMTgyLjk0MiAxMzYuMTkzIDE4NC4wNzEgMTM0LjMzNCAxODQuODQxQzEzMi40NzQgMTg1LjYxMSAxMzAuNDgxIDE4Ni4wMDggMTI4LjQ2OSAxODYuMDA4QzEyNi40NTYgMTg2LjAwOCAxMjQuNDYzIDE4NS42MTEgMTIyLjYwNCAxODQuODQxQzEyMC43NDQgMTg0LjA3MSAxMTkuMDU0IDE4Mi45NDIgMTE3LjYzMSAxODEuNTE5QzExNi4yMDYgMTgwLjA5NiAxMTUuMDc2IDE3OC40MDcgMTE0LjMwNSAxNzYuNTQ4QzExMy41MzMgMTc0LjY4OCAxMTMuMTM2IDE3Mi42OTQgMTEzLjEzNiAxNzAuNjgxQzExMy4xMzYgMTY4LjY2OCAxMTMuNTMzIDE2Ni42NzUgMTE0LjMwNSAxNjQuODE1QzExNS4wNzYgMTYyLjk1NSAxMTYuMjA2IDE2MS4yNjYgMTE3LjYzMSAxNTkuODQ0QzExOS4xMTIgMTU4LjM2OSAxMjAuNzU2IDE1Ny4yNSAxMjIuNjUgMTU2LjVWMTAxLjU4N0MxMjAuODI1IDEwMC44MzcgMTE5LjExMiA5OS43MzEyIDExNy42MzEgOTguMjQzN0MxMTUuNDc5IDk2LjA5NDMgMTE0LjAxNiA5My4zNTI2IDExMy40MjggOTAuMzY4NEMxMTIuODQxIDg3LjM4NDEgMTEzLjE1NSA4NC4yOTI0IDExNC4zMzEgODEuNDg3NUw5MS42NDM3IDU4LjgxMjVMMzEuNzY4NyAxMTguNjI1QzMwLjU3MTYgMTE5LjgyMSAyOS42MjE5IDEyMS4yNDEgMjguOTczOSAxMjIuODA0QzI4LjMyNTkgMTI0LjM2NyAyNy45OTI0IDEyNi4wNDIgMjcuOTkyNCAxMjcuNzM0QzI3Ljk5MjQgMTI5LjQyNiAyOC4zMjU5IDEzMS4xMDIgMjguOTczOSAxMzIuNjY1QzI5LjYyMTkgMTM0LjIyOCAzMC41NzE2IDEzNS42NDggMzEuNzY4NyAxMzYuODQ0TDExOS4wOTQgMjI0LjE1NkMxMjAuMjg5IDIyNS4zNTIgMTIxLjcwOSAyMjYuMzAxIDEyMy4yNzEgMjI2Ljk0OUMxMjQuODM0IDIyNy41OTYgMTI2LjUwOSAyMjcuOTI5IDEyOC4yIDIyNy45MjlDMTI5Ljg5MSAyMjcuOTI5IDEzMS41NjYgMjI3LjU5NiAxMzMuMTI5IDIyNi45NDlDMTM0LjY5MSAyMjYuMzAxIDEzNi4xMTEgMjI1LjM1MiAxMzcuMzA2IDIyNC4xNTZMMjI0LjIyNSAxMzcuMzc1QzIyNS40MjIgMTM2LjE3OSAyMjYuMzcyIDEzNC43NTkgMjI3LjAyIDEzMy4xOTZDMjI3LjY2OCAxMzEuNjMzIDIyOC4wMDEgMTI5Ljk1OCAyMjguMDAxIDEyOC4yNjZDMjI4LjAwMSAxMjYuNTc0IDIyNy42NjggMTI0Ljg5OCAyMjcuMDIgMTIzLjMzNUMyMjYuMzcyIDEyMS43NzIgMjI1LjQyMiAxMjAuMzUyIDIyNC4yMjUgMTE5LjE1NiIvPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9ImNsaXAwXzdfMjgzIj48cmVjdCB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0iI2ZmZiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjggMjgpIi8+PC9jbGlwUGF0aD48L2RlZnM+PC9zdmc+CiAgICAgICAgPC9nPgogICAgICAgIAogIDwvc3ZnPgogIA==" x="24" y="44" width="208" height="116" preserveAspectRatio="xMinYMin meet" />
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 106)" id="widget-widget_1790132384223">
+
+      
+      
+      
+      
+      
+    <svg x="16" y="16" width="248" height="248" viewBox="0 0 234.89999999999998 230" preserveAspectRatio="xMidYMid meet">
+      <text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="8.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">DB0MQM0WQMRPk80%&amp;&amp;&amp;%QNNg$$9Gp5l[uZk4VpOA8#mHX</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="18.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">m]EE2]ESSkwuy9kqSE2SwS]]ww5]uJ7IYye[nnYxxxZYD</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="28.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">XywE2SwSwh]lEh6XN@%W0$BgD42eC|3Y5x[[[e5YY55x#</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="38.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">0Sy]EwSSqh]opM%$9jonuuoo3|{{f11nEajZeZ5Yxxxj$</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="48.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">$2EwqqqS6VdP2yeF/+&lt;!!r!&lt;,:,&lt;+/c!|5jltn5oo[Zj$</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="58.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">$m88RRXAH0]7z*!&lt;;=&gt;;=_::.`  `..`;nGonloYo5xj$</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="68.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">IYxyEPh9OZ&lt;-:^^,:-&apos;_&gt;/)?!&lt;;,&apos;..``&gt;5dYooenYY5H</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="78.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">3LLTJ|{}}v&gt;:;cc&gt;=&gt;&lt;+?F(FJv7FJs+^_:*]PZYjj]ESD</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="88.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">1I31333f3J=+|Jv?+&lt;+;&gt;z)s/vi}[o3L!&lt;sjxuuultlt6</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="98.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">dxyaayyxyn&lt;TJ7*!;s?=_,^=^&lt;/7{i1|**{66Pkq6h94M</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="108.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">qtlu[[n[Z2f&lt;*_&apos;,FOPu|((sJCutIF}{|{FoOEjxy]2E&amp;</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="118.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">heZoe[ltI}YFzzr(XKqw2kVpqq25[1C|3{v|YOxxxayyM</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="128.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">]IIttlt33tjYtetZS8PqjPRVd2xl}FT7iFc{hdyjy]E]N</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="138.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">EI|77i{i{It53nkI{Fv)1KWm9]on[f}}t7(o44994VV9Q</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="148.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">G53iJJ(iif1l1t2aC&gt;_;;FlCF7LLTvJ)LcJ2ZtffC3unV</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="158.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">AolIi7)({1tle1C?zs/s!^=__,:&apos;,&gt;++^&gt;lUSkh9dV46U</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="168.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">6t3fIF)|{I31n[TT7?)JFz^&apos;-...-___,&lt;)wXMNN#VOG%</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="178.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">yIfC{}|vC}ffCZn(J(v7?;:..` ` `.-^+&lt;JfeeoqHXbt</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="188.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">Y|(Fi{JJ{fCfff[Yiz*!&apos;.```    `.-&apos;=^,,_::&gt;((T`</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="198.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">y{i|iJT7CC}}C}}{[oeei;`      ``.-&apos;&apos;-....--.` </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="208.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">x{F7)77v{FiF({{{{Fi|IJ,`     ```--.``.`..``  </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="218.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">5|J7(J))i||F7iFF|F|J)(+.    `````` ````.     </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="228.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#c5ff4a" xml:space="preserve">nneZolIf[[[3lenn[tfi(&apos;     ``    ```.`       </text>
+    </svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 610)" id="widget-widget_1790132476656">
+
+      
+      
+      <rect class="" x="0" y="0" width="800" height="120" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      
+    <text x="24" y="32" font-family="JetBrains Mono" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ GITHUB METRICS ]</text>
+    
+        <g transform="translate(24, 48)">
+          <text x="0" y="28" font-family="JetBrains Mono" font-size="28" font-weight="300" fill="#c5ff4a">0</text>
+          <text x="0" y="44" font-family="JetBrains Mono" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">STARS</text>
+        </g>
+        <g transform="translate(149.33333333333331, 48)">
+          <text x="0" y="28" font-family="JetBrains Mono" font-size="28" font-weight="300" fill="#c5ff4a">4</text>
+          <text x="0" y="44" font-family="JetBrains Mono" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">REPOS</text>
+        </g>
+        <g transform="translate(274.66666666666663, 48)">
+          <text x="0" y="28" font-family="JetBrains Mono" font-size="28" font-weight="300" fill="#c5ff4a">3</text>
+          <text x="0" y="44" font-family="JetBrains Mono" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">FOLLOWERS</text>
+        </g>
+        <g transform="translate(400, 48)">
+          <text x="0" y="28" font-family="JetBrains Mono" font-size="28" font-weight="300" fill="#c5ff4a">4</text>
+          <text x="0" y="44" font-family="JetBrains Mono" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">FOLLOWING</text>
+        </g>
+        <g transform="translate(525.3333333333333, 48)">
+          <text x="0" y="28" font-family="JetBrains Mono" font-size="28" font-weight="300" fill="#c5ff4a">0</text>
+          <text x="0" y="44" font-family="JetBrains Mono" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">FORKS</text>
+        </g>
+        <g transform="translate(650.6666666666666, 48)">
+          <text x="0" y="28" font-family="JetBrains Mono" font-size="28" font-weight="300" fill="#c5ff4a">0</text>
+          <text x="0" y="44" font-family="JetBrains Mono" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">GISTS</text>
+        </g>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 566)" id="widget-widget_1790132498637">
+
+      
+      
+      <rect class="" x="0" y="0" width="800" height="30" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      <line x1="0" y1="15" x2="800" y2="15" stroke="#c5ff4a" stroke-width="4" />
+  
+    </g>
+  
+
+    <g transform="translate(0, 746)" id="widget-widget_1790132820675">
+
+      
+      
+      
+      
+      
+    <svg xmlns="http://www.w3.org/2000/svg" width="800" height="320" viewBox="0 0 800 260" preserveAspectRatio="xMidYMid meet">
+      <defs>
+        <linearGradient id="nbg-widget_1790132820675" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#0b0f14"/>
+          <stop offset="100%" stop-color="#151c25"/>
+        </linearGradient>
+        <radialGradient id="nglow-widget_1790132820675" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stop-color="#b6a891" stop-opacity="0.9"/>
+          <stop offset="60%" stop-color="#b6a891" stop-opacity="0.4"/>
+          <stop offset="100%" stop-color="#b6a891" stop-opacity="0"/>
+        </radialGradient>
+        <filter id="glow-widget_1790132820675" x="-50%" y="-50%" width="200%" height="200%">
+          <feGaussianBlur stdDeviation="4" result="blur"/>
+          <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+        </filter>
+      </defs>
+      <rect width="800" height="260" fill="url(#nbg-widget_1790132820675)" rx="12"/>
+        <path d="M200 65 C266 65,334 65,400 65" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M200 65 C266 65,334 130,400 130" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M200 65 C266 65,334 195,400 195" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M200 130 C266 130,334 65,400 65" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M200 130 C266 130,334 130,400 130" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M200 130 C266 130,334 195,400 195" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M200 195 C266 195,334 65,400 65" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M200 195 C266 195,334 130,400 130" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M200 195 C266 195,334 195,400 195" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M400 65 C466 65,534 65,600 65" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M400 65 C466 65,534 130,600 130" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M400 65 C466 65,534 195,600 195" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M400 130 C466 130,534 65,600 65" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M400 130 C466 130,534 130,600 130" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M400 130 C466 130,534 195,600 195" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M400 195 C466 195,534 65,600 65" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M400 195 C466 195,534 130,600 130" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+  <path d="M400 195 C466 195,534 195,600 195" fill="none" stroke="#b6a891" stroke-width="1" opacity="0.2"/>
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M200 65 C266 65,334 65,400 65"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="3.2s" repeatCount="indefinite" path="M200 65 C266 65,334 130,400 130"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="3.9s" repeatCount="indefinite" path="M200 65 C266 65,334 195,400 195"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M200 130 C266 130,334 65,400 65"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="3.2s" repeatCount="indefinite" path="M200 130 C266 130,334 130,400 130"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="3.9s" repeatCount="indefinite" path="M200 130 C266 130,334 195,400 195"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M200 195 C266 195,334 65,400 65"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="3.2s" repeatCount="indefinite" path="M200 195 C266 195,334 130,400 130"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="3.9s" repeatCount="indefinite" path="M200 195 C266 195,334 195,400 195"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M400 65 C466 65,534 65,600 65"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="3.2s" repeatCount="indefinite" path="M400 65 C466 65,534 130,600 130"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="3.9s" repeatCount="indefinite" path="M400 65 C466 65,534 195,600 195"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M400 130 C466 130,534 65,600 65"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="3.2s" repeatCount="indefinite" path="M400 130 C466 130,534 130,600 130"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="3.9s" repeatCount="indefinite" path="M400 130 C466 130,534 195,600 195"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M400 195 C466 195,534 65,600 65"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="3.2s" repeatCount="indefinite" path="M400 195 C466 195,534 130,600 130"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#b6a891" opacity="0.9" filter="url(#glow-widget_1790132820675)">
+        <animateMotion dur="3.9s" repeatCount="indefinite" path="M400 195 C466 195,534 195,600 195"/>
+      </circle>
+    
+
+      <text x="200" y="18" text-anchor="middle" font-family="Consolas, monospace" font-size="10" fill="#b6a891" opacity="0.7" font-weight="bold" letter-spacing="2">FRONTEND</text>
+    
+
+        <circle cx="200" cy="65" r="22" fill="url(#nglow-widget_1790132820675)" opacity="0.5"/>
+        <circle cx="200" cy="65" r="14" fill="#151c25" stroke="#b6a891" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="200" cy="65" r="5" fill="#b6a891" filter="url(#glow-widget_1790132820675)"/>
+        <text x="200" y="93" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">React</text>
+      
+
+        <circle cx="200" cy="130" r="22" fill="url(#nglow-widget_1790132820675)" opacity="0.5"/>
+        <circle cx="200" cy="130" r="14" fill="#151c25" stroke="#b6a891" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="200" cy="130" r="5" fill="#b6a891" filter="url(#glow-widget_1790132820675)"/>
+        <text x="200" y="158" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Next.js</text>
+      
+
+        <circle cx="200" cy="195" r="22" fill="url(#nglow-widget_1790132820675)" opacity="0.5"/>
+        <circle cx="200" cy="195" r="14" fill="#151c25" stroke="#b6a891" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="200" cy="195" r="5" fill="#b6a891" filter="url(#glow-widget_1790132820675)"/>
+        <text x="200" y="223" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Tailwind</text>
+      
+
+      <text x="400" y="18" text-anchor="middle" font-family="Consolas, monospace" font-size="10" fill="#b6a891" opacity="0.7" font-weight="bold" letter-spacing="2">BACKEND</text>
+    
+
+        <circle cx="400" cy="65" r="22" fill="url(#nglow-widget_1790132820675)" opacity="0.5"/>
+        <circle cx="400" cy="65" r="14" fill="#151c25" stroke="#b6a891" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="400" cy="65" r="5" fill="#b6a891" filter="url(#glow-widget_1790132820675)"/>
+        <text x="400" y="93" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Node.js</text>
+      
+
+        <circle cx="400" cy="130" r="22" fill="url(#nglow-widget_1790132820675)" opacity="0.5"/>
+        <circle cx="400" cy="130" r="14" fill="#151c25" stroke="#b6a891" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="400" cy="130" r="5" fill="#b6a891" filter="url(#glow-widget_1790132820675)"/>
+        <text x="400" y="158" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Postgres</text>
+      
+
+        <circle cx="400" cy="195" r="22" fill="url(#nglow-widget_1790132820675)" opacity="0.5"/>
+        <circle cx="400" cy="195" r="14" fill="#151c25" stroke="#b6a891" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="400" cy="195" r="5" fill="#b6a891" filter="url(#glow-widget_1790132820675)"/>
+        <text x="400" y="223" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Docker</text>
+      
+
+      <text x="600" y="18" text-anchor="middle" font-family="Consolas, monospace" font-size="10" fill="#b6a891" opacity="0.7" font-weight="bold" letter-spacing="2">DEVOPS</text>
+    
+
+        <circle cx="600" cy="65" r="22" fill="url(#nglow-widget_1790132820675)" opacity="0.5"/>
+        <circle cx="600" cy="65" r="14" fill="#151c25" stroke="#b6a891" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="600" cy="65" r="5" fill="#b6a891" filter="url(#glow-widget_1790132820675)"/>
+        <text x="600" y="93" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Git</text>
+      
+
+        <circle cx="600" cy="130" r="22" fill="url(#nglow-widget_1790132820675)" opacity="0.5"/>
+        <circle cx="600" cy="130" r="14" fill="#151c25" stroke="#b6a891" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="600" cy="130" r="5" fill="#b6a891" filter="url(#glow-widget_1790132820675)"/>
+        <text x="600" y="158" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">GitHub</text>
+      
+
+        <circle cx="600" cy="195" r="22" fill="url(#nglow-widget_1790132820675)" opacity="0.5"/>
+        <circle cx="600" cy="195" r="14" fill="#151c25" stroke="#b6a891" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="600" cy="195" r="5" fill="#b6a891" filter="url(#glow-widget_1790132820675)"/>
+        <text x="600" y="223" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Linux</text>
+      
+    </svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 1082)" id="widget-widget_1790132854710">
+
+      
+      
+      <rect class="" x="0" y="0" width="800" height="30" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      <line x1="0" y1="15" x2="800" y2="15" stroke="#c5ff4a" stroke-width="4" />
+  
+    </g>
+  
+
+    <g transform="translate(0, 1128)" id="widget-widget_1790132916872">
+
+      
+      
+      
+      
+      
+      <svg id="svg-hero-widget_1790132916872" xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 1200 360" preserveAspectRatio="xMidYMid meet">
+        <defs>
+          <linearGradient id="industrial-bg-widget_1790132916872" x1="0" y1="0" x2="1" y2="1">
+            <stop stop-color="#07131A"/>
+            <stop offset="1" stop-color="#10141F"/>
+          </linearGradient>
+          <linearGradient id="industrial-accent-widget_1790132916872" x1="0" y1="0" x2="1" y2="0">
+            <stop stop-color="#00A7D1"/>
+            <stop offset="1" stop-color="#E84A8A"/>
+          </linearGradient>
+          <pattern id="industrial-grid-widget_1790132916872" width="40" height="40" patternUnits="userSpaceOnUse">
+            <path d="M40 0H0V40" fill="none" stroke="#17313C" stroke-width="1"/>
+          </pattern>
+          <filter id="industrial-glow-widget_1790132916872" x="-80%" y="-80%" width="260%" height="260%">
+            <feGaussianBlur stdDeviation="6" result="b"/>
+            <feMerge>
+              <feMergeNode in="b"/>
+              <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+          </filter>
+        </defs>
+        <style>
+          #svg-hero-widget_1790132916872 text{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+          .micro{font-size:9px;letter-spacing:2px}
+          .label{font-size:11px;letter-spacing:2.5px;font-weight:700}
+          .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-in-out infinite}
+          .scan{animation:scan 5s ease-in-out infinite}
+          .flicker{animation:flicker 2.2s ease-in-out infinite}
+          .boot{animation:boot .8s cubic-bezier(.2,.8,.2,1) both}
+          @keyframes pulse{50%{opacity:.35;transform:scale(.72)}}
+          @keyframes scan{50%{opacity:.28;transform:translateX(24px)}}
+          @keyframes flicker{50%{opacity:.38}}
+          @keyframes boot{from{opacity:0}to{opacity:1}}
+        </style>
+
+        <rect width="1200" height="360" rx="18" fill="url(#industrial-bg-widget_1790132916872)"/>
+        <rect width="1200" height="360" rx="18" fill="url(#industrial-grid-widget_1790132916872)" opacity=".68"/>
+
+        <path d="M0 1H1200" stroke="url(#industrial-accent-widget_1790132916872)" stroke-width="2"/>
+        <path d="M720 44V344" stroke="#2B4A57"/>
+        <path d="M730 44V344" stroke="#17313C"/>
+
+        <!-- Header Panel -->
+        <g transform="translate(20 22)">
+          <circle cx="0" cy="0" r="4" fill="#EF4B5A"/>
+          <circle cx="18" cy="0" r="4" fill="#E6A425"/>
+          <circle cx="36" cy="0" r="4" fill="#22A447"/>
+          <text x="58" y="4" class="micro" fill="#8BA9B5">KARTIK-PRO / COMMAND_DECK</text>
+        </g>
+        <g transform="translate(1046 22)">
+          <circle class="flicker" r="4" fill="#00A7D1" filter="url(#industrial-glow-widget_1790132916872)"/>
+          <text x="14" y="4" class="micro" fill="#8BA9B5">MISSION READY</text>
+        </g>
+        <path d="M0 44H1200" stroke="#2B4A57"/>
+
+        <!-- Main Body -->
+        <g class="boot">
+          <text x="38" y="82" class="label" fill="#00A7D1">// OPERATOR IDENTITY / SYSTEM COMMAND</text>
+          <text x="38" y="139" font-size="43" font-weight="900" letter-spacing="-1.6" fill="#E7F7FC">KARTIK SHARMA</text>
+          <text x="38" y="182" font-size="43" font-weight="900" letter-spacing="-1.6" fill="#E7F7FC">COMMAND CENTER</text>
+          <path d="M38 223H650" stroke="#2B4A57"/>
+          <path class="scan" d="M38 223H270" stroke="#00A7D1" stroke-width="2"/>
+          <text x="38" y="250" font-size="11" letter-spacing="1.5" fill="#8BA9B5">Student
+In class 11</text>
+
+          <!-- Metrics blocks -->
+          <g transform="translate(38 282)">
+            <path d="M0 0H188L198 10V42H0Z" fill="#0C1C24" stroke="#2B4A57"/>
+            <text x="14" y="16" font-size="7" letter-spacing="1.5" fill="#8BA9B5">LAYERS</text>
+            <text x="14" y="34" font-size="15" font-weight="900" fill="#00A7D1">04</text>
+            <path d="M164 30h18" stroke="#00A7D1"/>
+            <circle cx="182" cy="30" r="3" fill="#00A7D1"/>
+          </g>
+          <g transform="translate(243 282)">
+            <path d="M0 0H188L198 10V42H0Z" fill="#0C1C24" stroke="#2B4A57"/>
+            <text x="14" y="16" font-size="7" letter-spacing="1.5" fill="#8BA9B5">FLAGSHIPS</text>
+            <text x="14" y="34" font-size="15" font-weight="900" fill="#E84A8A">03</text>
+            <path d="M164 30h18" stroke="#E84A8A"/>
+            <circle cx="182" cy="30" r="3" fill="#E84A8A"/>
+          </g>
+          <g transform="translate(448 282)">
+            <path d="M0 0H188L198 10V42H0Z" fill="#0C1C24" stroke="#2B4A57"/>
+            <text x="14" y="16" font-size="7" letter-spacing="1.5" fill="#8BA9B5">STATUS</text>
+            <text x="14" y="34" font-size="15" font-weight="900" fill="#00A7D1">READY</text>
+            <path d="M164 30h18" stroke="#00A7D1"/>
+            <circle cx="182" cy="30" r="3" fill="#00A7D1"/>
+          </g>
+        </g>
+
+        <!-- Right Side Signal Channels -->
+        <text x="760" y="64" class="label" fill="#E84A8A">FLAGSHIP CHANNELS</text>
+        <text x="1148" y="64" text-anchor="end" class="micro" fill="#8BA9B5">03 PRIORITY SIGNALS</text>
+        
+          <g class="boot" style="animation-delay: 0.00s">
+            <path d="M760 72 H1148 V127 H780 L760 107 Z" fill="#0C1C24" fill-opacity=".88" stroke="#00A7D1" stroke-opacity=".72"/>
+            <text x="778" y="92" font-size="8" font-weight="700" letter-spacing="1.5" fill="#00A7D1">01 / EXTEND</text>
+            <text x="778" y="111" font-size="13" font-weight="800" fill="#E7F7FC">Kartik-pro</text>
+            <text x="1131" y="111" text-anchor="end" font-size="8" fill="#8BA9B5">CHANNEL 01</text>
+            <circle class="pulse" cx="1129" cy="89" r="3" fill="#00A7D1"/>
+          </g>
+        
+          <g class="boot" style="animation-delay: 0.18s">
+            <path d="M760 146 H1148 V201 H780 L760 181 Z" fill="#0C1C24" fill-opacity=".88" stroke="#00A7D1" stroke-opacity=".72"/>
+            <text x="778" y="166" font-size="8" font-weight="700" letter-spacing="1.5" fill="#00A7D1">02 / EXTEND</text>
+            <text x="778" y="185" font-size="13" font-weight="800" fill="#E7F7FC">NEXUS</text>
+            <text x="1131" y="185" text-anchor="end" font-size="8" fill="#8BA9B5">CHANNEL 02</text>
+            <circle class="pulse" cx="1129" cy="163" r="3" fill="#00A7D1"/>
+          </g>
+        
+          <g class="boot" style="animation-delay: 0.36s">
+            <path d="M760 220 H1148 V275 H780 L760 255 Z" fill="#0C1C24" fill-opacity=".88" stroke="#E84A8A" stroke-opacity=".72"/>
+            <text x="778" y="240" font-size="8" font-weight="700" letter-spacing="1.5" fill="#E84A8A">03 / EXTEND</text>
+            <text x="778" y="259" font-size="13" font-weight="800" fill="#E7F7FC">Teacher-Helper</text>
+            <text x="1131" y="259" text-anchor="end" font-size="8" fill="#8BA9B5">CHANNEL 03</text>
+            <circle class="pulse" cx="1129" cy="237" r="3" fill="#E84A8A"/>
+          </g>
+        
+
+        <!-- Dial radar at bottom right -->
+        <g transform="translate(1083 310)">
+          <circle r="29" fill="#0C1C24" stroke="#2B4A57"/>
+          <circle r="20" fill="none" stroke="url(#industrial-accent-widget_1790132916872)" stroke-dasharray="5 5"/>
+          <path d="M0-16V16M-16 0H16" stroke="#00A7D1"/>
+          <circle class="pulse" r="4" fill="#E84A8A"/>
+        </g>
+        <text x="760" y="322" class="micro" fill="#8BA9B5">CONTROL BUS / ONLINE</text>
+        <rect x="1" y="1" width="1198" height="358" rx="18" fill="none" stroke="#00A7D1" stroke-opacity=".72"/>
+      </svg>
+    
+  
+    </g>
+  
+
+    <g transform="translate(0, 1412)" id="widget-widget_1790134905126">
+
+      
+      
+      <rect class="" x="0" y="0" width="390" height="210" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      
+    <text x="24" y="32" font-family="JetBrains Mono" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ GITHUB README STATS ]</text>
+    <style>
+.header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #fff;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+          }
+          @supports(-moz-appearance: auto) {
+            /* Selector detects Firefox */
+            .header { font-size: 15.5px; }
+          }
+          
+    .stat {
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #9f9f9f;
+    }
+    @supports(-moz-appearance: auto) {
+      /* Selector detects Firefox */
+      .stat { font-size:12px; }
+    }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    .rank-text {
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9f9f9f;
+      animation: scaleInAnimation 0.3s ease-in-out forwards;
+    }
+    .rank-percentile-header {
+      font-size: 14px;
+    }
+    .rank-percentile-text {
+      font-size: 16px;
+    }
+    
+    .not_bold { font-weight: 400 }
+    .bold { font-weight: 700 }
+    .icon {
+      fill: #79ff97;
+      display: block;
+    }
+
+    .rank-circle-rim {
+      stroke: #fff;
+      fill: none;
+      stroke-width: 6;
+      opacity: 0.2;
+    }
+    .rank-circle {
+      stroke: #fff;
+      stroke-dasharray: 250;
+      fill: none;
+      stroke-width: 6;
+      stroke-linecap: round;
+      opacity: 0.8;
+      transform-origin: -10px 8px;
+      transform: rotate(-90deg);
+      animation: rankAnimation 1s forwards ease-in-out;
+    }
+    
+    @keyframes rankAnimation {
+      from {
+        stroke-dashoffset: 251.32741228718345;
+      }
+      to {
+        stroke-dashoffset: 244.48374124736512;
+      }
+    }
+  
+  
+
+          
+      /* Animations */
+      @keyframes scaleInAnimation {
+        from {
+          transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+          transform: translate(-5px, 5px) scale(1);
+        }
+      }
+      @keyframes fadeInAnimation {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+</style>
+<svg fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId" x="16" y="44" width="358" height="150" preserveAspectRatio="xMinYMin meet" viewBox="0 0 467 195">
+        <title id="titleId">Kartik Sharma's GitHub Stats, Rank: C</title>
+        <desc id="descId">Total Stars Earned: 0, Total Commits in 2026 : 10, Total PRs: 1, Total Issues: 0, Contributed to (last year): 0</desc>
+        
+
+        
+
+        <rect
+          data-testid="card-bg"
+          x="0.5"
+          y="0.5"
+          rx="4.5"
+          height="99%"
+          stroke="#e4e2e2"
+          width="466"
+          fill="#151515"
+          stroke-opacity="1"
+        />
+
+        
+      <g
+        data-testid="card-title"
+        transform="translate(25, 35)"
+      >
+        <g transform="translate(0, 0)">
+      <text
+        x="0"
+        y="0"
+        class="header"
+        data-testid="header"
+      >Kartik Sharma's GitHub Stats</text>
+    </g>
+      </g>
+    
+
+        <g
+          data-testid="main-card-body"
+          transform="translate(0, 55)"
+        >
+          
+    <g data-testid="rank-circle"
+          transform="translate(390.5, 47.5)">
+        <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
+        <circle class="rank-circle" cx="-10" cy="8" r="40" />
+        <g class="rank-text">
+          
+        <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
+          C
+        </text>
+      
+        </g>
+      </g>
+    <svg x="0" y="0">
+      <g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
+      
+    <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+      <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+    </svg>
+  
+      <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="stars"
+      >0</text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
+      
+    <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+      <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
+    </svg>
+  
+      <text class="stat  bold" x="25" y="12.5">Total Commits (2026):</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="commits"
+      >10</text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
+      
+    <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+      <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+    </svg>
+  
+      <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="prs"
+      >1</text>
+    </g>
+  </g><g transform="translate(0, 75)">
+    <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
+      
+    <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+      <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
+    </svg>
+  
+      <text class="stat  bold" x="25" y="12.5">Total Issues:</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="issues"
+      >0</text>
+    </g>
+  </g><g transform="translate(0, 100)">
+    <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
+      
+    <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+      <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+    </svg>
+  
+      <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
+      <text
+        class="stat  bold"
+        x="219.01"
+        y="12.5"
+        data-testid="contribs"
+      >0</text>
+    </g>
+  </g>
+    </svg>
+  
+        </g>
+      </svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 392)" id="widget-widget_1790134815569">
+
+      
+      
+      <rect class="" x="0" y="0" width="536" height="160" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      
+    <text x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ TOP LANGUAGES ]</text>
+    
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 1622)" id="widget-widget_1790134921255">
+
+      
+      
+      <rect class="" x="0" y="0" width="800" height="250" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      
+    <text x="24" y="32" font-family="JetBrains Mono" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ CONTRIBUTION SNAKE ]</text>
+    <svg width="768" height="190" x="16" y="44" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100%" height="100%" fill="#141414" rx="6" ry="6" stroke="#333" stroke-dasharray="4" />
+            <text x="50%" y="50%" fill="#888888" font-family="monospace" font-size="11" text-anchor="middle" dominant-baseline="middle">Snake not generated yet (run GitHub Action)</text>
+          </svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 1872)" id="widget-widget_1790134957182">
+
+      
+      
+      
+      
+      
+    <svg width="800" height="44" viewBox="0 0 800 44" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+      <g>
+        <rect x="0.5" y="0.5" width="799" height="43" rx="21.5" ry="21.5" fill="rgba(8,8,13,0.6)" stroke="rgba(255,255,255,0.09)" stroke-width="1" />
+        <text x="400" y="27" text-anchor="middle" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.4">
+          <tspan fill="rgba(255,255,255,0.45)">crafted with precision by </tspan>
+          <tspan fill="#ffffff" font-weight="700">Kartik Sharma </tspan>
+          <tspan fill="rgba(255,255,255,0.45)">• powered by readme-aura</tspan>
+        </text>
+      </g>
+    </svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(398, 1412)" id="widget-widget_1790135172505">
+
+      
+      
+      <rect class="" x="0" y="0" width="392" height="202" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      
+    <text x="24" y="32" font-family="JetBrains Mono" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ BIOGRAPHY ]</text>
+    <text x="24" y="60" text-anchor="start" font-family="JetBrains Mono" font-size="14" fill="#e5e5e5">
+      <tspan x="24" dy="0">Student</tspan><tspan x="24" dy="20">In class 11</tspan>
+    </text>
+    <g transform="translate(24, 178)">
+      <text x="0" y="0" font-family="JetBrains Mono" font-size="12" fill="#7a7a7a">📍 Nirala Nagar,Lucknow</text>
+      
+    </g>
+  
+  
+    </g>
+  
+</svg>
